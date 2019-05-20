@@ -1,1 +1,1 @@
-java -classpath .;libs\* com.partys.login.loading
+  kkkkkkkkkkkkjava -classpath .;libs\* com.partys.login.loading
